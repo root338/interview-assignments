@@ -1,0 +1,6 @@
+
+listRefreshIdleText = "Pull up to loading..."
+listRefreshPullingText = "Release to loading..."
+listRefreshRefreshingText = "loading..."
+listRefreshWillRefreshText = "will loading..."
+listRefreshNoMoreDataText = "No more data."
